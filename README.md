@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Shabahat 👋
 
-<!--
-**Shabahat-Shoukat/Shabahat-Shoukat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student at Asia Pacific University working toward becoming a capable software developer.
 
-Here are some ideas to get you started:
+## Currently learning
+- C# fundamentals and Object-Oriented Programming
+- SQL and relational databases
+- Git and GitHub
+- Web development
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current focus
+Strengthening my programming fundamentals, practicing through small projects, and learning how software solves real-world problems.
+
+## Projects
+My projects and learning repositories will be added here as I build and improve them.
+
+## Connect with me
+- LinkedIn: https://www.linkedin.com/in/shabahat-shoukat-1557bb285/
